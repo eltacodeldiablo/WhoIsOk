@@ -1,0 +1,26 @@
+#container
+{
+width: 90%;
+margin: 10px auto;
+background-color: #fff;
+color: #333;
+line-height: 130%;
+}
+
+#leftnav
+{
+float:left;
+margin-left: 0em;
+border-left: 1px solid gray;
+padding: 1em;
+max-width: 20em;
+clear: both;
+}
+
+#content
+{
+margin-left: 25em;
+border-left: 1px solid gray;
+padding: 1em;
+max-width: 25em;
+}
