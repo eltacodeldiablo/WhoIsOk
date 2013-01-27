@@ -1,6 +1,8 @@
 WhoIsOk
 ---
 
+![](http://i.imgur.com/MOR8x9q.png)
+
 - Written for RHoK #2 Dec 2010
 - Wikipedia for WhoIsOk at http://wiki.rhok.org/WhoIsOk
 - Facebook code: https://github.com/Agent007/WhoIsOk
