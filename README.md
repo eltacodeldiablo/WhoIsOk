@@ -1,7 +1,7 @@
 WhoIsOk
 ---
 
-![](http://i.imgur.com/MOR8x9q.png)
+![](http://i.imgur.com/YxxJH9D.png)
 
 - Written for RHoK #2 Dec 2010
 - Wikipedia for WhoIsOk at http://wiki.rhok.org/WhoIsOk
